@@ -42,5 +42,5 @@ The Billing Management System is a Java application designed to automate billing
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/billing-management.git
+   git clone https://github.com/KranthiNagireddy/Billing-Management.git
    cd billing-management/
